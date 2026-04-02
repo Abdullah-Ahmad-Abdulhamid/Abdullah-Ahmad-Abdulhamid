@@ -106,14 +106,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdullah-abdulhamid-79b57a377" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-  <a href="https://github.com/Abdullah-Ahmad-Abdulhamid">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  <a href="https://www.linkedin.com/in/abdullah-abdulhamid-79b57a377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Abdullah-Ahmad-Abdulhamid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
-
 ---
 
 <p align="center">🔥 Always learning | Always building | Always leveling up</p>
