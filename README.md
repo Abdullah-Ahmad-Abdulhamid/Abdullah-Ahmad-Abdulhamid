@@ -106,7 +106,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-ahmed-79b57a377">
+  <a href="www.linkedin.com/in/abdullah-ahmed-79b57a377">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/Abdullah-Ahmad-Abdulhamid">
