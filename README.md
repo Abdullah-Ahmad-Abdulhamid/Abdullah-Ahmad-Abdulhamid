@@ -2,16 +2,16 @@
 <h3 align="center">🚀 Full-Stack Developer | Problem Solver | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;ASP.NET+%7C+React;Competitive+Programmer;Backend+Enthusiast;Always+Learning...&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;ASP.NET+%7C+React;Competitive+Programmer;Backend+Enthusiast;Always+Learning...&center=true&width=500&height=50">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah-Ahmad-Abdulhamid&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Abdullah-Ahmad-Abdulhamid&label=Profile%20Views&color=blue&style=flat">
 </p>
 
 ---
 
-## 🧠 About Meث
+## 🧠 About Me
 
 * 💻 Building scalable **Web & Mobile Applications**
 * 🧠 Strong background in **Data Structures & Algorithms**
@@ -101,15 +101,13 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ahmad-Abdulhamid&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Ahmad-Abdulhamid&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ahmad-Abdulhamid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Ahmad-Abdulhamid&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Abdullah-Ahmad-Abdulhamid&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Ahmad-Abdulhamid&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -117,7 +115,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Ahmad-Abdulhamid&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Ahmad-Abdulhamid&theme=tokyo-night">
 </p>
 
 ---
@@ -125,7 +123,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdullah-Ahmad-Abdulhamid/Abdullah-Ahmad-Abdulhamid/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Abdullah-Ahmad-Abdulhamid/Abdullah-Ahmad-Abdulhamid/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
