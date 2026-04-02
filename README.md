@@ -98,10 +98,10 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ahmad-Abdulhamid&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Ahmad-Abdulhamid&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -135,7 +135,8 @@
 > "Code. Compete. Improve. Repeat."
 
 ---
-## 🌐 Connect with Me
+
+# 🌐 Connect with Me
 
 <p align="center">
 
@@ -147,13 +148,11 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-<a href="mailto:abdallah.0523080@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdallah.0523080@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
-
-
 
 ---
 
