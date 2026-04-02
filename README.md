@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Meث
 
 * 💻 Building scalable **Web & Mobile Applications**
 * 🧠 Strong background in **Data Structures & Algorithms**
