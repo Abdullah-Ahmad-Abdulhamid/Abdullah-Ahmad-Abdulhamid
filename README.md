@@ -107,8 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdullah-Ahmad-Abdulhamid&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Ahmad-Abdulhamid&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=" height="170" alt="Top Languages"/></p>
 
 ---
 
