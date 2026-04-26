@@ -85,10 +85,11 @@
   
 ---
 
-### 🔹 Maharty Platform
-
-* Educational platform built with **Team NEXUS**
-* Focused on **skills development**
+### 🔹 Maharty Platform (Digitopia)
+* Educational platform built with Team NEXUS for the Digitopia competition.
+* Focused on skills development, career path tracking, and interactive learning.
+* Technologies: ASP.NET MVC, SQL Server.
+* [View Repository](https://github.com/Abdullah-Ahmad-Abdulhamid/Digitopia.git)
 
 ---
 
