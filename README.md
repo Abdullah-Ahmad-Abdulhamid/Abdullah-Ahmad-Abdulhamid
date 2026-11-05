@@ -1,182 +1,157 @@
-# Hi 👋, I'm Abdullah Ahmed
+<h1 align="center">Hi 👋, I'm Abdullah Ahmed</h1>
+<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Competitive+Programmer+(EFPC+%237);Backend-Focused+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;ASP.NET+%7C+React;Competitive+Programmer;Backend+Enthusiast;Always+Learning...&center=true&width=500&height=50">
 </p>
 
 <p align="center">
-  <b>🚀 Full-Stack Developer | 🧠 Competitive Programmer | ⚙️ Backend-Focused Software Developer</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/abdullah-ahmed-79b57a377">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdallah.0523080@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/201555199359">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah-Ahmad-Abdulhamid&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Abdullah-Ahmad-Abdulhamid&label=Profile%20Views&color=blue&style=flat">
 </p>
 
 ---
 
-## ⚡ Executive Summary
+## 🧠 About Me
 
-I am a Full-Stack Developer and Competitive Programmer passionate about building practical software solutions, solving algorithmic challenges, and developing reliable backend systems.
-
-With a **7th-place team finish in EFPC**, I have developed a strong foundation in problem-solving, data structures, and algorithms. I primarily work with **C#, ASP.NET Core, React, Flutter, and SQL Server**, with an interest in backend development, API design, and scalable application architecture.
-
-- 🏆 **Problem Solving:** Experience with competitive programming, algorithms, and data structures.
-- ⚙️ **Backend Development:** Building RESTful APIs and web applications using ASP.NET Core and SQL Server.
-- 🌐 **Full-Stack Development:** Developing end-to-end applications using modern frontend and backend technologies.
-- 📱 **Mobile Development:** Building cross-platform applications using Flutter.
-- 🔬 **Exploring Emerging Technologies:** Hands-on experience with OpenCV, Arduino, and Proteus.
+* 💻 Building scalable **Web & Mobile Applications**
+* 🧠 Strong background in **Data Structures & Algorithms**
+* 🏆 Competitive Programmer (**EFPC Rank #7**)
+* 🚀 Passionate about **Backend Development & System Design**
+* 🧪 Experience with **Computer Vision using OpenCV (Python)**
+* 🔌 Built **Embedded Systems experiments using Arduino & Proteus**
+* 🎨 Basic **UI/UX design using Figma**
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+# 🛠️ Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td width="20%"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Web</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-      <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
-      <img src="https://img.shields.io/badge/REST%20API-Backend-green?style=for-the-badge" alt="REST API" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Mobile Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools & Technologies</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-      <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=microchip&logoColor=white" alt="Proteus" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge\&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 
 ---
 
-## 🏆 Honors & Achievements
+### 🌐 Web
 
-| Achievement | Event / Organization | Description |
-| :--- | :--- | :--- |
-| 🥈 **7th Place – Team AZAx** | **EFPC Competition** | Achieved 7th place in the team competition and earned a silver medal. |
-| 🚀 **Participant** | **NASA Space Apps Challenge 2024** | Collaborated on solutions addressing real-world challenges. |
-| 🧠 **Participant / Nominee** | **ECPC Teens** | Participated in competitive programming activities. |
-| 💡 **Participant** | **Digitopia** | Worked with Team NEXUS on an educational platform project. |
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET-MVC-512BD4?style=for-the-badge)
+![Web API](https://img.shields.io/badge/Web%20API-Backend-green?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 
 ---
 
-## 🚀 Featured Projects
+### 📱 Mobile
 
-### 🎓 Maharty Platform
-**Technologies:** ASP.NET MVC · SQL Server · Bootstrap
-
-- Educational platform developed with Team NEXUS for Digitopia.
-- Focused on skill development and career path tracking.
-- Designed to support interactive learning experiences.
-
-[View Repository](https://github.com/Abdullah-Ahmad-Abdulhamid/Digitopia)
-
-### 📝 Task Flow – Task Management App
-**Technologies:** ASP.NET MVC · C# · SQL Server
-
-- Task management application with CRUD functionality.
-- Task status management and organization.
-- Built using the ASP.NET MVC architecture.
-
-[View Repository](https://github.com/Abdullah-Ahmad-Abdulhamid/To-Do-List-App-ASP.NET-MVC..git)
-
-### 🎮 Game Store Admin Portal
-**Technologies:** ASP.NET MVC · Entity Framework · SQL Server
-
-- Administrative system for managing products and categories.
-- Inventory and stock management.
-- Database-driven application.
-
-[View My Repositories](https://github.com/Abdullah-Ahmad-Abdulhamid?tab=repositories)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
 
 ---
 
-## 📊 GitHub Analytics
+### 🗄️ Database
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+
+---
+
+### 🧰 Tools & Other Technologies
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+
+---
+
+## 🏆 Achievements
+
+* 🥇 **EFPC — 7th Place (Team AZAx)**
+* 🚀 **NASA Space Apps 2024 Participant**
+* 🧠 **ECPC 2025 Participant**
+* 💡 **Digitopia Participant**
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 To Do List App (ASP.NET MVC)
+
+* Full CRUD operations
+* Clean UI with task status update
+* Built using MVC Architecture
+* [View Repository](https://github.com/Abdullah-Ahmad-Abdulhamid/To-Do-List-App-ASP.NET-MVC..git)
+  
+---
+
+### 🔹 Maharty Platform (Digitopia)
+* Educational platform built with Team NEXUS for the Digitopia competition.
+* Focused on skills development, career path tracking, and interactive learning.
+* Technologies: ASP.NET MVC, SQL Server.
+* [View Repository](https://github.com/Abdullah-Ahmad-Abdulhamid/Digitopia.git)
+
+---
+
+### 🔹 Game Store Admin Dashboard
+
+* Manage **products, categories, and stock**
+* Built using **ASP.NET MVC + SQL Server**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdullah-Ahmad-Abdulhamid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Abdullah-Ahmad-Abdulhamid&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdullah-Ahmad-Abdulhamid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Abdullah-Ahmad-Abdulhamid&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Ahmad-Abdulhamid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Ahmad-Abdulhamid&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=" height="170" alt="Top Languages"/></p>
 
-### 📈 Contribution Graph
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Ahmad-Abdulhamid&theme=tokyo-night" width="100%" alt="Activity Graph" />
-</p>
-
-### 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdullah-Ahmad-Abdulhamid/Abdullah-Ahmad-Abdulhamid/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Ahmad-Abdulhamid&theme=tokyo-night">
 </p>
 
 ---
 
-## 💬 Words to Live By
+## 🐍 Contribution Snake
 
-> "Code for performance, design for scale, compete for excellence."
+<p align="center">
+<img src="https://raw.githubusercontent.com/Abdullah-Ahmad-Abdulhamid/Abdullah-Ahmad-Abdulhamid/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
-## 🌐 Let's Build Something Impactful Together
+## 💡 Quote
 
-I am open to software engineering opportunities, open-source collaborations, and competitive programming challenges.
+> "Code. Compete. Improve. Repeat."
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdullah-ahmed-79b57a377">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdallah.0523080@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+---
+
+# 🌐 Connect with Me
 
 <p align="center">
-  <b>⭐ If you find my projects valuable, consider following my work and starring the repositories!</b>
+
+<a href="https://www.linkedin.com/in/%D9%90abdullah-ahmed-79b57a377/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://wa.me/201555199359" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdallah.0523080@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
+
+---
+
+<p align="center">🔥 Always learning | Always building | Always leveling up</p>
