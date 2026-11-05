@@ -1,15 +1,23 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Abdullah+Ahmed;Full-Stack+Developer;Competitive+Programmer+(EFPC+%237);Backend+Architect+%26+Problem+Solver" alt="Typing SVG" />
-</h1>
+# Hi 👋, I'm Abdullah Ahmed
 
 <p align="center">
-  <b>🚀 Full-Stack Developer | 🧠 Competitive Programmer | ⚙️ Backend Architecture Specialist</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Competitive+Programmer+(EFPC+%237);Backend-Focused+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdullah-ahmed-79b57a377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abdallah.0523080@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://wa.me/201555199359"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <b>🚀 Full-Stack Developer | 🧠 Competitive Programmer | ⚙️ Backend-Focused Software Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdullah-ahmed-79b57a377">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdallah.0523080@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/201555199359">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 <p align="center">
@@ -20,12 +28,15 @@
 
 ## ⚡ Executive Summary
 
-I am a results-driven **Full-Stack Developer** and **Competitive Programmer** with a relentless drive for engineering elegance, algorithmic efficiency, and scalable backend architecture. Ranked **#7 in EFPC** and an active **ECPC participant**, I specialize in solving complex computational problems and building high-performance web applications using **C# / ASP.NET**, **React**, and modern database architectures.
+I am a Full-Stack Developer and Competitive Programmer passionate about building practical software solutions, solving algorithmic challenges, and developing reliable backend systems.
 
-- 🏆 **Problem Solving & Algorithms:** Proven track record in competitive programming with deep expertise in Data Structures, Time-Space Complexity Optimization, and Graph Theory.
-- ⚙️ **Backend & System Design:** Designing robust, scalable RESTful APIs, clean MVC architectures, and optimized SQL schemas.
-- 🌐 **Full-Stack Capability:** End-to-end software development combining modern frontend frameworks with enterprise-grade backend infrastructure.
-- 🔬 **Emerging Tech & Embedded:** Hands-on experience with Computer Vision using OpenCV (Python) and Embedded Hardware Systems (Arduino & Proteus).
+With a **7th-place team finish in EFPC**, I have developed a strong foundation in problem-solving, data structures, and algorithms. I primarily work with **C#, ASP.NET Core, React, Flutter, and SQL Server**, with an interest in backend development, API design, and scalable application architecture.
+
+- 🏆 **Problem Solving:** Experience with competitive programming, algorithms, and data structures.
+- ⚙️ **Backend Development:** Building RESTful APIs and web applications using ASP.NET Core and SQL Server.
+- 🌐 **Full-Stack Development:** Developing end-to-end applications using modern frontend and backend technologies.
+- 📱 **Mobile Development:** Building cross-platform applications using Flutter.
+- 🔬 **Exploring Emerging Technologies:** Hands-on experience with OpenCV, Arduino, and Proteus.
 
 ---
 
@@ -43,30 +54,31 @@ I am a results-driven **Full-Stack Developer** and **Competitive Programmer** wi
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>Backend & Web</b></td>
+    <td><b>Backend & Web</b></td>
     <td>
-      <img src="https://img.shields.io/badge/ASP.NET%20Core%2FMVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC" />
-      <img src="https://img.shields.io/badge/Web%20API-Backend-green?style=for-the-badge&logo=fastapi&logoColor=white" alt="Web API" />
+      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+      <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
+      <img src="https://img.shields.io/badge/REST%20API-Backend-green?style=for-the-badge" alt="REST API" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>Mobile Dev</b></td>
+    <td><b>Mobile Development</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>Databases</b></td>
+    <td><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>Tools & Specialized</b></td>
+    <td><b>Tools & Technologies</b></td>
     <td>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
@@ -81,47 +93,47 @@ I am a results-driven **Full-Stack Developer** and **Competitive Programmer** wi
 
 ## 🏆 Honors & Achievements
 
-| Milestone | Event / Organization | Description |
+| Achievement | Event / Organization | Description |
 | :--- | :--- | :--- |
-| 🥇 **Rank #7 (Team AZAx)** | **EFPC Competition** | Top-tier placement in competitive programming, demonstrating exceptional problem-solving & speed algorithms under pressure. |
-| 🚀 **Participant** | **NASA Space Apps Challenge 2024** | Collaborated in an intensive hackathon solving real-world global and space technology challenges. |
-| 🧠 **Participant** | **ECPC 2025** | Qualified and competed among the top algorithmic problem solvers in the Egyptian Collegiate Programming Contest. |
-| 💡 **Participant** | **Digitopia** | Developed innovative educational platform solutions in a competitive technical team setting. |
+| 🥈 **7th Place – Team AZAx** | **EFPC Competition** | Achieved 7th place in the team competition and earned a silver medal. |
+| 🚀 **Participant** | **NASA Space Apps Challenge 2024** | Collaborated on solutions addressing real-world challenges. |
+| 🧠 **Participant / Nominee** | **ECPC Teens** | Participated in competitive programming activities. |
+| 💡 **Participant** | **Digitopia** | Worked with Team NEXUS on an educational platform project. |
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
-<table align="center" width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Tech Stack</th>
-    <th>Highlights & Description</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td><b>🎓 Maharty Platform</b></td>
-    <td><code>ASP.NET MVC</code> <code>SQL Server</code> <code>Bootstrap</code></td>
-    <td>Comprehensive educational platform built with <b>Team NEXUS</b> for Digitopia. Features skill-path tracking, dynamic module delivery, and automated progress analytics.</td>
-    <td><a href="https://github.com/Abdullah-Ahmad-Abdulhamid/Digitopia.git"><code>Repository</code></a></td>
-  </tr>
-  <tr>
-    <td><b>📝 Task Flow Enterprise App</b></td>
-    <td><code>ASP.NET MVC</code> <code>C#</code> <code>SQL Server</code></td>
-    <td>Robust task management application implementing clean MVC pattern, full asynchronous CRUD operations, priority filtering, and state persistence.</td>
-    <td><a href="https://github.com/Abdullah-Ahmad-Abdulhamid/To-Do-List-App-ASP.NET-MVC..git"><code>Repository</code></a></td>
-  </tr>
-  <tr>
-    <td><b>🎮 Game Store Admin Portal</b></td>
-    <td><code>ASP.NET MVC</code> <code>Entity Framework</code> <code>SQL Server</code></td>
-    <td>Administrative management system for digital storefronts featuring inventory control, real-time stock updating, and category taxonomy management.</td>
-    <td><a href="https://github.com/Abdullah-Ahmad-Abdulhamid"><code>Repository</code></a></td>
-  </tr>
-</table>
+### 🎓 Maharty Platform
+**Technologies:** ASP.NET MVC · SQL Server · Bootstrap
+
+- Educational platform developed with Team NEXUS for Digitopia.
+- Focused on skill development and career path tracking.
+- Designed to support interactive learning experiences.
+
+[View Repository](https://github.com/Abdullah-Ahmad-Abdulhamid/Digitopia)
+
+### 📝 Task Flow – Task Management App
+**Technologies:** ASP.NET MVC · C# · SQL Server
+
+- Task management application with CRUD functionality.
+- Task status management and organization.
+- Built using the ASP.NET MVC architecture.
+
+[View Repository](https://github.com/Abdullah-Ahmad-Abdulhamid/To-Do-List-App-ASP.NET-MVC..git)
+
+### 🎮 Game Store Admin Portal
+**Technologies:** ASP.NET MVC · Entity Framework · SQL Server
+
+- Administrative system for managing products and categories.
+- Inventory and stock management.
+- Database-driven application.
+
+[View My Repositories](https://github.com/Abdullah-Ahmad-Abdulhamid?tab=repositories)
 
 ---
 
-## 📊 Analytics & Engineering Activity
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdullah-Ahmad-Abdulhamid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
@@ -138,23 +150,23 @@ I am a results-driven **Full-Stack Developer** and **Competitive Programmer** wi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Ahmad-Abdulhamid&theme=tokyo-night" width="100%" alt="Activity Graph" />
 </p>
 
-### 🐍 Contribution Grid Animation
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdullah-Ahmad-Abdulhamid/Abdullah-Ahmad-Abdulhamid/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Abdullah-Ahmad-Abdulhamid/Abdullah-Ahmad-Abdulhamid/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
 ## 💬 Words to Live By
 
-> *"Code for performance, design for scale, compete for excellence."*
+> "Code for performance, design for scale, compete for excellence."
 
 ---
 
 ## 🌐 Let's Build Something Impactful Together
 
-I am open to software engineering opportunities, open-source collaborations, and competitive programming challenges. 
+I am open to software engineering opportunities, open-source collaborations, and competitive programming challenges.
 
 <p align="center">
   <a href="https://linkedin.com/in/abdullah-ahmed-79b57a377">
@@ -163,11 +175,8 @@ I am open to software engineering opportunities, open-source collaborations, and
   <a href="mailto:abdallah.0523080@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/201555199359">
-    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
 </p>
 
 <p align="center">
-  <b>⭐ If you find my projects valuable, don't forget to hit the "Follow" button and star the repositories!</b>
+  <b>⭐ If you find my projects valuable, consider following my work and starring the repositories!</b>
 </p>
